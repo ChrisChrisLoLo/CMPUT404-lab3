@@ -3,6 +3,6 @@ import cgi
 import cgitb
 cgitb.enable()
 
-print("Content-Type: text/html\n")
+print("Content-Type: text/html")
 print()
 print("<!doctype html><title>Hello</title><h2>Hello World</h2>")
